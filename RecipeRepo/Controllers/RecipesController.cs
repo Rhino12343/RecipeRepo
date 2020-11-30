@@ -12,14 +12,23 @@ namespace RecipeRepo.Controllers
     [Route("[controller]")]
     public class RecipesController : ControllerBase
     {
+        private readonly RecipeContext _context;
+
+        public RecipesController(RecipeContext context)
+        {
+            _context = context;
+        }
+
         [HttpGet]
         public IEnumerable<Recipe> Get()
         {
-            return Enumerable.Range(1, 5).Select(index => new Recipe
-            {
-                Name = "Recipe no: " + index.ToString(), Ingredients = "ingredients of recipe no: " + index.ToString(), Instructions = "instructions of recipe no: " + index.ToString()
-            })
-            .ToArray();
+            return _context.Recipes.ToArray();
+        }
+
+        [HttpGet("{id:int}")]
+        public Recipe Get(int id)
+        {
+            return _context.Recipes.FirstOrDefault(m => m.RecipeId == id);
         }
     }
 }
