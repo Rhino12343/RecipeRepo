@@ -1,0 +1,50 @@
+D:\nottingham_university_work\simple db api\bin\Debug\appsettings.Development.json
+D:\nottingham_university_work\simple db api\bin\Debug\appsettings.json
+D:\nottingham_university_work\simple db api\bin\Debug\simple db api.exe
+D:\nottingham_university_work\simple db api\bin\Debug\simple db api.dll
+D:\nottingham_university_work\simple db api\bin\Debug\simple db api.pdb
+D:\nottingham_university_work\simple db api\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\nottingham_university_work\simple db api\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\nottingham_university_work\simple db api\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\nottingham_university_work\simple db api\bin\Debug\System.ComponentModel.Annotations.dll
+D:\nottingham_university_work\simple db api\bin\Debug\System.Collections.Immutable.dll
+D:\nottingham_university_work\simple db api\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Extensions.Options.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\nottingham_university_work\simple db api\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\appsettings.json
+D:\nottingham_university_work\RecipeRepo\bin\Debug\appsettings.Development.json
+D:\nottingham_university_work\RecipeRepo\bin\Debug\RecipeRepo.exe
+D:\nottingham_university_work\RecipeRepo\bin\Debug\RecipeRepo.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\RecipeRepo.pdb
+D:\nottingham_university_work\RecipeRepo\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\nottingham_university_work\RecipeRepo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\nottingham_university_work\RecipeRepo\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\System.ComponentModel.Annotations.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\System.Collections.Immutable.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\nottingham_university_work\RecipeRepo\bin\Debug\Microsoft.Extensions.Options.dll
