@@ -12,6 +12,7 @@ services:
     environment:
      - ASPNETCORE_ConnectionStrings__db_connection_string=Server=reciperepodb,1433;Database=RecipeRepo;UID=sa;Trusted_Connection=False;MultipleActiveResultSets=True;Connect Timeout=10;
      - ASPNETCORE_db_connection_password=S00p3r53cr3t
+     - ASPNETCORE_ENVIRONMENT=Development
 
   reciperepodb:
     image: mcr.microsoft.com/mssql/server

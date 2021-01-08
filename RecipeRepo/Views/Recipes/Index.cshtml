@@ -1,0 +1,68 @@
+﻿@model IList<RecipeRepo.Models.Recipe>
+
+<p>
+    <a asp-page="/Recipes/Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model[0].Ingredients)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model[0].Instructions)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ingredients)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Instructions)
+                </td>
+                <td>
+                    @Html.ActionLink(
+                      linkText: "Edit",
+                      actionName: "Edit",
+                      controllerName: "Recipes",
+                      routeValues: new
+                      {
+                          id = item.RecipeId
+                      }
+                    ) |
+
+                    @Html.ActionLink(
+                      linkText: "Details",
+                      actionName: "Details",
+                      controllerName: "Recipes",
+                      routeValues: new
+                      {
+                          id = item.RecipeId
+                      }
+                    ) |
+
+                    @Html.ActionLink(
+                      linkText: "Delete",
+                      actionName: "Delete",
+                      controllerName: "Recipes",
+                      routeValues: new
+                      {
+                          id = item.RecipeId
+                      }
+                    )
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
